@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "indoorthemes.html",
     "name": "SHINING WEDDING",
     "theme": {
       "name": "mobirise3",
@@ -673,7 +673,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-czc7006-2000x13302.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-czc7006-2000x13303.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1069,7 +1069,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/czc7006-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-czc7006-2000x13302.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-czc7006-2000x13303.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2194,7 +2194,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/77-1400x967.jpg",
-              "link": "",
+              "link": "chinoiserie.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2213,7 +2213,7 @@
           },
           "title": "CHINOISERIE <br>【时尚中国风】",
           "text": "这年头谁家结婚还用红盖头？<br>不要再纠结于父母喜欢的【中式婚礼】，自己喜欢的【西式婚礼】，交给喜来也婚典通通帮你搞定！<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">点击查看</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"chinoiserie.html\" data-toolbar=\"-mbrBtnMove\">点击查看</a>"
         },
         {
           "_inherit": "msg-box5",

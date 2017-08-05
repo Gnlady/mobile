@@ -673,7 +673,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-czc7006-2000x13300.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-czc7006-2000x13301.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1069,7 +1069,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/czc7006-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-czc7006-2000x13300.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-czc7006-2000x13301.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
